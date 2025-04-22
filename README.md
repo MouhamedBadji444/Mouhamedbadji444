@@ -1,5 +1,5 @@
 ## Hello, Im Mouhamed 👋
-https://www.linkedin.com/in/mouhamed-badji-ab7835330/
+<a href="https://www.linkedin.com/in/mouhamed-badji-ab7835330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Introduction]
 
@@ -7,7 +7,7 @@ I am a Junior in college majoring in MIS with a strong interest in technology an
 
 [Objective]
 
-So far my learnings in my MIS major has awoken my passion in cybersecurity. I hope to share what I have learned with other likeminded people. Overrall I want to grow and break into the cybersecurity field.
+My learnings in my MIS major has awoken my passion in cybersecurity. I hope to share what I have learned with other likeminded people. Overrall I want to grow and break into the cybersecurity field.
 <!--
 **MouhamedBadji444/Mouhamedbadji444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
